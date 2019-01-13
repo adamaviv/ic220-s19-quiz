@@ -1,0 +1,20 @@
+NAME  ____________________________
+
+
+
+1. Convert the following C style code into MIPS instructions
+
+    C = B + A[4] - A[2]                                                                                                                                                                           
+
+
+
+
+
+
+
+
+2. Convert the following mips code into equivalent C instructions
+
+    add $t0, $s1, $s2
+    add $t0, $t0, $s3
+    sub $s0, $t0, $s4
