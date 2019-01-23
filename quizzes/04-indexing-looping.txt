@@ -1,0 +1,12 @@
+NAME _______________________
+
+
+
+Convert the following C style code to MIPS instructions
+
+do {
+    g = g + A[i]
+}while( g != h );
+
+let A be stored in $s0, g in $s1, and h in $s2
+
