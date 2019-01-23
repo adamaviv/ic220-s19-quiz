@@ -1,0 +1,17 @@
+NAME ________________
+
+
+Write the equivalent pseudo-instruction in full MIPS
+
+1. bge $s0, $s1, L1
+
+
+
+
+
+
+
+
+2.  move $s0,$s1  #transfer the value in $s1 into $s0
+
+
