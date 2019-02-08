@@ -1,0 +1,18 @@
+
+NAME ________________
+
+Minimize the following truth table with a K-Map
+
+  | A | B | C | z |
+  |---|---|---|---|
+  | 0 | 0 | 0 | 1 |
+  | 0 | 0 | 1 | 1 |
+  | 0 | 1 | 0 | X |
+  | 0 | 1 | 1 | X |
+  | 1 | 0 | 0 | 0 |
+  | 1 | 0 | 1 | 0 |
+  | 1 | 1 | 0 | 1 |
+  | 1 | 1 | 1 | 1 |
+
+
+Be sure to CIRCLE your coverings. 
