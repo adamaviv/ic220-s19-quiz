@@ -1,0 +1,44 @@
+
+NAME ______________________
+
+Draw circuits for the following boolean formulas
+
+1. x = !(AB+C)
+
+
+
+
+
+2. x = A + !B + CD, y= BC + D
+
+
+
+
+
+
+Write the truth table for the following formulae
+
+3. x = AB!C + A!B
+
+
+
+
+
+
+
+
+
+4. A 2-way, 1-wide MUX with input A, B, singl S, and output Q.
+
+
+```
+          mux
+         .----.
+  A ---- |0   |
+         |    |---- Q
+  B -----|1   |
+         '----'
+            |
+            |
+            S
+```

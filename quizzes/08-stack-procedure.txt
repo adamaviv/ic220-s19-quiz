@@ -1,0 +1,46 @@
+
+NAME _____________________
+
+Consider the following C style code
+
+```
+int foo(int a, int b){
+  while( a > 0){
+     b = bar(a,b);
+     a = a - 1;
+  }
+  return b;
+}
+```
+
+Finish the MIPS below, such that it can be safely be called in a nested way and
+returns the appropriate value to the callee. That is, write the activation code
+setup and restore.
+
+
+```
+
+
+
+
+
+   move $s0, $a0
+   move $s1, $a1
+   j check
+loop:
+   move $a0,$s0
+   move $a1,$s1
+   jal bar
+   move $s1,$v0
+   addi $s0,$s0,-1
+check
+  slt $t0, $zero, $s0
+  bne $t0, $zero, loop
+
+
+
+  
+
+
+
+```
