@@ -1,0 +1,104 @@
+
+NAME _______________________
+
+
+
+
+In the S-R latch below
+
+```           .--.
+   R -------- \   \
+               )   )o-----x----- Q
+         .--- /   /       |
+          \   '--'        |
+           '-----------.  |
+           .-----------+--'
+          /   .--.     |
+          '---\   \    |
+               )   )o--x------- !Q 
+   S -------- /   /
+              '--'
+```
+
+if Q is 0 and !Q 1:
+
+1. What are *TWO* possible values of R and S
+
+   R=    S=
+   
+   or
+   
+   R=    S=
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+2. Consider the following D-flip-flop made of two D-latches, (a) and (b)
+
+
+``` 
+  .------|>o------.
+  |               |
+  |  .-------.    |  .-------.
+C-x--|      Q|--. '--|      Q| --- y (output of D-Flip-Flop)
+     |  (a)  |  |    |  (b)  |
+z----|D      |  '----|D      |
+     '-------'       '-------'
+
+```
+
+The output y is the current output of the D-Flip-Flop, but the user would like
+to set the value of the D-Flip-Flop to Z. 
+
+The value of each of the latches, and the output value of the D-Flip-Flop are
+modeled in this clock time diagram. Complete the time diagram, for the next
+clock cycle. Initially, all values are  y, but they should change over time.
+
+
+``` 
+   -------------------------->  time 
+              1
+          .--------.
+      0   |        |   0
+  C ------'        '---------
+
+
+ (a)  y                          value of D-Latch (a)
+ 
+ 
+ (b)  y                          value of D-latch (b)
+ 
+ 
+  Q   y                          value of D-Flip-flop 
+
+```
