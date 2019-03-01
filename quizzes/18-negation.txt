@@ -1,0 +1,33 @@
+
+NAME ________
+
+Write -5 as a 4-bit number using
+
+1. Sign and Magnitude
+
+
+
+2. 1's Complement
+
+
+
+3. 2's Complement
+
+
+
+
+Convert the following 8-bit number to decimal,
+
+1111 1011
+
+when encoded as
+
+4. Unsigned number
+
+
+
+
+5. 2's Complement
+
+
+
