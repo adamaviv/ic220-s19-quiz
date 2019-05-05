@@ -12,6 +12,6 @@ Write the equivalent pseudo-instruction in full MIPS
 
 
 
-2.  move $s0,$s1  #transfer the value in $s1 into $s0
+2.  move $s0,$s1  #transfer the value in $s1 into $s2
 
 

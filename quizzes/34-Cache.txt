@@ -1,0 +1,22 @@
+
+NAME _____________________________
+
+Assume you have a N=5 block cache, and access the following addresses. 
+
+Read: 31, 30, 22, 30, 31, 32, 23, 24, 25, 30, 31, 32
+
+
+1. How many Hits and Misses?
+
+
+
+
+2. How many evictions?
+
+
+
+
+
+3. Show work below
+
+

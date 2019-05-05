@@ -1,0 +1,19 @@
+NAME _______________
+
+
+1. If a program runs in 50s, of which 80% of the execution can be improved, and
+   20% cannot. For the improvable execution, what factor would we need to
+   improve that by to see an overall improvement of 2x. 
+   
+
+
+
+
+2. For the same terms, what if we want to see a 4x improvement
+
+
+
+
+
+3. Using the two prior results, explain why Amdahl's law is often referred to as
+   the law of diminishing returns.

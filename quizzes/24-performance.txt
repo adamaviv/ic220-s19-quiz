@@ -1,0 +1,21 @@
+
+NAME ______________________
+
+1. CPU A has 1.5 MHz processor and CPU B has a 1.25 MHz processor. If a program
+   takes 1.5x10^5 cycles to complete. What is the execution time in seconds for
+   each processor?
+
+
+
+
+
+
+
+
+
+
+2. If we wanted to improve performance, we should increase or decrease the following?
+
+   * Clock Rate
+   * Cycles Per Program
+   * Cycle Time

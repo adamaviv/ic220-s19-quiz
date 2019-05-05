@@ -1,0 +1,15 @@
+NAME _______________________
+
+Assume you have a N=6 blocks of cache with associativity of A=2 and block sizes
+of 3. If you access the following addresses.
+
+Read: 31, 30, 22, 30, 31, 32, 23, 24, 25, 30, 31, 32
+
+1. How many Hits and Misses?
+
+
+2. How many evictions?
+
+
+3. Show work below
+
